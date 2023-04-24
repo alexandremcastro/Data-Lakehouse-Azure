@@ -1,2 +1,2 @@
 # Data-Warehouse-Cloud-Azure
-Implementação de um Data Warehouse utilizando os serviços em nuvem (Cloud) Azure, aplicando a "Medallion Architecture" com Databricks em conjunto do Delta Lake e PySpark.
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/alexandremcastro/Data-Warehouse-Cloud-Azure/blob/main/LICENSE)
