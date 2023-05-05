@@ -646,7 +646,7 @@ Dentro do contêiner, na pasta `Silver`, verifique se foi criado o arquivo `CDC_
 <br/>
 
 <a name = "Gold"></a>
-Populando camada (Gold)
+**Populando camada (Gold)**
 
 >💡 Para realizar esta etapa, é necessário ter concluído a etapa anterior.
 

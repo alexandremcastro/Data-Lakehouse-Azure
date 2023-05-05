@@ -74,13 +74,13 @@ Ao longo do projeto, fui capaz de armazenar e processar de dados de diferentes f
 
 **Projeto:** 
 
-* [Projeto no site]()
+* [Projeto no site](https://alexandre-castro.vercel.app/blog/datalakehouse)
 
-* [Projeto no Notion]()
+* [Projeto no Notion](https://alexandremcastro.notion.site/03-2023-Data-Lakehouse-Azure-1d13e4bc561549808b1f69a69a69b58d)
 
-* [Projeto no GitLab]()
+* [Projeto no GitLab](https://gitlab.com/alexandremcastro/Data-Lakehouse-Azure)
 
-* [Projeto no GitHub]()
+* [Projeto no GitHub](https://github.com/alexandremcastro/Data-Lakehouse-Azure)
 
 **Artigos orientados:** 
 
